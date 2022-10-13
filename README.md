@@ -1,6 +1,6 @@
 # The Market
 
-**The Market** simula um supermercado onde clientes podem fazer pedido dos produtos disponíveis e escolher a forma de pagamento.
+**The Market** simula um supermercado onde clientes podem fazer pedidos de produtos disponíveis e escolher a forma de pagamento.
 Implementado em Node.js, usa sockets para fazer a comunicação entre cliente e servidor.
 
 ## Requisitos
@@ -13,11 +13,11 @@ Implementado em Node.js, usa sockets para fazer a comunicação entre cliente e 
 
 ## Executando o projeto
 ### Server
-```
+```sh
 node /server/server.js
 ```
 ### Cliente
 
-```
+```sh
 node /client/client.js
 ```
