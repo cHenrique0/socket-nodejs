@@ -14,10 +14,12 @@ Implementado em Node.js, usa sockets para fazer a comunicação entre cliente e 
 ## Executando o projeto
 ### Server
 ```sh
-node /server/server.js
+cd server
+node server.js
 ```
 ### Cliente
 
 ```sh
-node /client/client.js
+cd client
+node client.js
 ```
